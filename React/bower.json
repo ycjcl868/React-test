@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "authors": [
+    "信鑫-King <45808948@qq.com>"
+  ],
+  "description": "react-test",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.2",
+    "babel": "^5.8.38"
+  }
+}
